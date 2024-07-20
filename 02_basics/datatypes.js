@@ -9,6 +9,8 @@
     //symbol=>unique
 //object
 console.log(typeof "vidhi");
+console.log(typeof 10);
+
 //string
 // type of null=>object
 // type of undefined=>undefined.
