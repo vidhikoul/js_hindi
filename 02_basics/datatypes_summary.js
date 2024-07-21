@@ -1,10 +1,10 @@
 //primitive
-
+//stack
 //7 types: string,Numbetr,Boolean,null,undefined,symbol,BigInt
 
 
 //reference (non primitive)
-
+//heap
 //array,objects,functions
 
 const heros=["vidhi","mom","papa"];
