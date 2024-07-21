@@ -14,3 +14,10 @@ console.log(typeof 10);
 //string
 // type of null=>object
 // type of undefined=>undefined.
+
+//converions of datatype
+//javascript is not a strictly typed language that's why we use typescript 
+//1=>true;
+//0=>false;
+//""=>false;
+//"viddhi"=>true
